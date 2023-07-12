@@ -1,0 +1,23 @@
+{
+    "_id": "29edcdb0-24e1-4dd1-8c9f-de2b2144783e",
+    "name": "(Global Env)",
+    "default": false,
+    "global": true,
+    "sortNum": -2,
+    "created": "2023-06-28T14:05:24.651Z",
+    "modified": "2023-06-28T14:05:24.651Z",
+    "data": [
+        {
+            "name": "URI",
+            "value": "http://localhost:4500/api"
+        },
+        {
+            "name": "farm",
+            "value": "6495cad7d3e97865c94deaf8"
+        },
+        {
+            "name": "token",
+            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY0M2VjMGRhMWMzOWViMjM5MTJlMzI3YyIsInJvbCI6IlNVUEVSIiwibmFtZSI6IlNVUEVSIiwiZmFybXMiOlt7Il9pZCI6IjY0OTQ3MmM3Nzc1Nzk1MTZhMzFkMGU5ZiIsIm5hbWUiOiJFTCBFREVOIiwiYWRkcmVzcyI6IlNhbnRhbmRlciwgS20gOCB2aWEgU2FuIEdpbCAtIENoYXJhbGEgIiwib3duZXIiOiJMYXVyYSBYaW1lbmEiLCJzdGF0dXMiOjAsImNyZWF0ZWRBdCI6IjIwMjMtMDYtMjJUMTY6MTE6NTEuOTYzWiIsInVwZGF0ZWRBdCI6IjIwMjMtMDYtMjJUMTY6NDE6MzIuNjM3WiIsIl9fdiI6MH0seyJfaWQiOiI2NDk1YTZhN2QzZTk3ODY1Yzk0ZGVhYWUiLCJuYW1lIjoiTUkgUkFOQ0hJVE8iLCJhZGRyZXNzIjoiQ2hhcmFsw6EiLCJvd25lciI6Ikp1YW4gSmFpbWVzIiwic3RhdHVzIjowLCJjcmVhdGVkQXQiOiIyMDIzLTA2LTIzVDE0OjA1OjI3LjM2NFoiLCJ1cGRhdGVkQXQiOiIyMDIzLTA2LTIzVDE0OjA1OjI3LjM2NFoiLCJfX3YiOjB9XSwiaWF0IjoxNjg3OTYxNDExLCJleHAiOjE2OTA1NTM0MTF9.sRYXh00y-teR6oo0YtAjEpa9VALmAiQxyb1jHTpAO8U"
+        }
+    ]
+}
